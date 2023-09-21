@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RathinakumarSundarajan/usereducer-usecontext.git/static/css/main.793ecdea.css",
+    "main.js": "/RathinakumarSundarajan/usereducer-usecontext.git/static/js/main.af092d95.js",
+    "index.html": "/RathinakumarSundarajan/usereducer-usecontext.git/index.html",
+    "main.793ecdea.css.map": "/RathinakumarSundarajan/usereducer-usecontext.git/static/css/main.793ecdea.css.map",
+    "main.af092d95.js.map": "/RathinakumarSundarajan/usereducer-usecontext.git/static/js/main.af092d95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.793ecdea.css",
+    "static/js/main.af092d95.js"
+  ]
+}
